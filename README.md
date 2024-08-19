@@ -1,6 +1,7 @@
 # CapstoneProject_with_YelpMe_Data
 By Using Hypothesis Testing, we're gonna dig through customer feedback, look at different features of restaurants, and uncover what makes people love or hate a place. It's all about finding what gets people talking and coming back for more.
 
+Dataset : https://www.kaggle.com/datasets/adamamer2001/yelp-complete-open-dataset-2024
 
 
 Yelp me!
